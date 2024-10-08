@@ -265,7 +265,7 @@ sections:
       ### "It’s very easy to be different, but very difficult to be better."
 
     name: Steve Jobs
-    title: Apple
+    title: 'CEO, Apple'
     colors: colors-d
     elementId: ''
     styles:
