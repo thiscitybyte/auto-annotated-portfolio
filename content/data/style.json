@@ -50,7 +50,7 @@
         "size": "lg",
         "weight": "medium",
         "decoration": "none",
-        "case": "capitalize",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "buttonPrimary": {
