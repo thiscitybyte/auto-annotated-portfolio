@@ -235,6 +235,7 @@ sections:
           - pr-4
         justifyContent: center
         borderRadius: none
+        borderColor: border-primary
       title:
         textAlign: center
       subtitle:
