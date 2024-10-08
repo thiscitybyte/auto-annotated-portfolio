@@ -13,23 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ## Scott is a seasoned UI/UX and graphic designer with over 20 years of
-      experience, having evolved with the industry from print design to web and
-      mobile. With a keen eye for user-centric design, Scott specializes in
-      creating impactful digital experiences that blend creativity and
-      functionality. His expertise spans across mobile-first responsive web
-      design, branding, and UI/UX, making him a versatile asset in both creative
-      and development environments. Known for being a bridge between design and
-      development teams, Scott brings ideas to life by seamlessly merging
-      innovative design with cutting-edge tech.
-
-
-
-
-
-
-
+    text: >
+      ## I'm a graphic designer and UI/UX pro with 20 years of experience, and I
+      specialize in creating mobile-first, responsive web designs. Whether it’s
+      crafting stunning visuals or building user-friendly interfaces, I focus on
+      making digital experiences that stand out creatively and work flawlessly
+      for businesses.
     media:
       type: ImageBlock
       url: /images/about.jpg
