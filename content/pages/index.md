@@ -264,7 +264,7 @@ sections:
     quote: |+
       ### "It’s very easy to be different, but very difficult to be better."
 
-    name: Johnna Doe
+    name: Steve Jobs
     title: Product Marketing Manager at Acme
     colors: colors-d
     elementId: ''
