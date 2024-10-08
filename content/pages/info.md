@@ -13,11 +13,23 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Scott is a seasoned UI/UX and graphic designer with over 20 years of
+      experience, having evolved with the industry from print design to web and
+      mobile. With a keen eye for user-centric design, Scott specializes in
+      creating impactful digital experiences that blend creativity and
+      functionality. His expertise spans across mobile-first responsive web
+      design, branding, and UI/UX, making him a versatile asset in both creative
+      and development environments. Known for being a bridge between design and
+      development teams, Scott brings ideas to life by seamlessly merging
+      innovative design with cutting-edge tech.
+
+
+
+
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
