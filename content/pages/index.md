@@ -265,7 +265,7 @@ sections:
       ### "It’s very easy to be different, but very difficult to be better."
 
     name: Steve Jobs
-    title: Product Marketing Manager at Acme
+    title: Apple
     colors: colors-d
     elementId: ''
     styles:
