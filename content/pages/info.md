@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     text: >
       ## I'm a graphic designer and UI/UX pro with 20 years of experience, and I
       specialize in creating mobile-first, responsive web designs. Whether it’s
