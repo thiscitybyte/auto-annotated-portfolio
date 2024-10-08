@@ -234,7 +234,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: xx-small
+        borderRadius: none
       title:
         textAlign: center
       subtitle:
