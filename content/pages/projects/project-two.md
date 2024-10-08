@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Verizon Indycar App
 colors: colors-a
-date: '1520-07-12'
+date: 15202-07-12
 client: Verizon
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
