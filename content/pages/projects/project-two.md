@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/verizon-thumb.png
   altText: Project thumbnail image
+  caption: Verizon Indycar App
 media:
   type: ImageBlock
   url: /images/bg2.jpg
