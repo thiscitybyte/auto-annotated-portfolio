@@ -17,9 +17,9 @@ sections:
       I’m a developer, digital artist, consultant, and an array of other
       distinguished titles and roles within the tech and creative landscape.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Here’s my story—I’m putting it all out there to show you what I’ve been up
+      to these past few years. Take a look, see what I’ve accomplished, and if
+      you like what you see, keep scrolling for all the details and creds.
     styles:
       self:
         height: auto
