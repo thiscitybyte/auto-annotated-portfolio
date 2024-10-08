@@ -15,7 +15,7 @@ featuredImage:
   caption: Verizon Indycar App
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/verizon-indy-hero.png
   altText: Project image
 ---
 
